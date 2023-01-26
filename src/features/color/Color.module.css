@@ -1,0 +1,24 @@
+.dialog {
+  padding: 32px;
+  min-width: 50%;
+
+  background: #EFEFEF;
+  border: 4px solid #DCDCDC;
+  border-radius: 40px;
+}
+
+.colorBox {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+}
+
+.colorButton {
+  display: inline-block;
+  width: 42px;
+  height: 42px;
+}
+
+.inputSend {
+  width: 100px;
+}
